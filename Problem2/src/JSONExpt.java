@@ -38,7 +38,7 @@ public class JSONExpt
     json = JSON.toString(obj);
     pen.println("Unparsed: " + json);
     pen.println("Dumped: ");
-    JSON.dump(pen, json);
+    JSON.dump(pen, obj);
     pen.println();
   } // expt(String)
 
