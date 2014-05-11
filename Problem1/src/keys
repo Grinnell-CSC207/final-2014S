@@ -1,0 +1,2 @@
+#!/bin/bash 
+java Keys twas brillig and the slithy toves did gyre and gimble in the wabe all mimsy were the borogoves and the mome raths outgrabe beware the jabberwock my son the jaws that bite the claws that catch beware the jubjub bird and shun the frumious bandersnatch he took his vorpal sword in hand long time the manxome for he sought so rested he by a tumtum tree and stood awhile in thought and as in uffish thought he stood the jabberwork with eyes of flame came whiffling through the tulgey wood and burbled as it came | sort -u | sort  -n
